@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "657331955246",
+    "firebase_url": "https://mutabletest.firebaseio.com",
+    "project_id": "mutabletest",
+    "storage_bucket": "mutabletest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657331955246:android:399596de815d666697e1bf",
+        "android_client_info": {
+          "package_name": "com.bsf.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657331955246-vl629bpn18usrfoiu7v2clq86a861f57.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuC360myWJKnvk8O_6lLHY4uFnHzcEo1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657331955246-vl629bpn18usrfoiu7v2clq86a861f57.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
